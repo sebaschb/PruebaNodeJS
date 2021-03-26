@@ -23,10 +23,10 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 _Clona el proyecto en tu máquina local para iniciar la prueba._
 
 ```
-git clone https://github.com/roncertain/audara_v5_CA.git
+git clone https://github.com/geckosas/audara_test_node.git
 ```
 
-_Si deseas descargarlo directamente puedes ingresar al siguiente link [https://github.com/roncertain/audara_v5_CA](https://github.com/roncertain/audara_v5_CA)._
+_Si deseas descargarlo directamente puedes ingresar al siguiente link [https://github.com/geckosas/audara_test_node](https://github.com/geckosas/audara_test_node)._
 
 _Una vez el proyecto esté en tu máquina es necesario instalar las dependencias que se encuentran en el archivo ``package.json`` y lo puedes hacer con el siguiente comando en tu terminal._
 
@@ -60,7 +60,7 @@ _La prueba está diseñada para no ser necesario instalar nuevas librerias en lo
 
 _Dentro de la carpeta `` helpers/ `` hay un archivo `` serverTools.js `` donde puedes encontrar múltiples métodos que pueden ayudarte. Si crees necesario para la escalabilidad del proyecto puedes agregar nuevos métodos en este archivo._
 
-_Con base en la estructura de rutas y los ejemplos en `` callQueueController.js ``  y `` callQueueValidations.js `` es necesario generar en los archivos `` callRatesController.js `` y `` callRatesValidations.js `` los siguientes métodos._
+_Con base en la estructura de rutas y los ejemplos en `` callQueueController.js ``  y `` callQueueValidations.js `` es necesario generar en los archivos `` ratesController.js `` y `` ratesValidations.js `` los siguientes métodos._
 
 *  Show callRate (2500)
 *  Create callRate (2510)
