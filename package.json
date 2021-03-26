@@ -1,5 +1,5 @@
 {
-  "name": "gecko_test",
+  "name": "audara_test_node",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roncertain/gecko_test.git"
+    "url": "git+https://github.com/geckosas/audara_test_node.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/roncertain/gecko_test/issues"
+    "url": "https://github.com/geckosas/audara_test_node/issues"
   },
-  "homepage": "https://github.com/roncertain/gecko_test#readme",
+  "homepage": "https://github.com/geckosas/audara_test_node#readme",
   "devDependencies": {
     "nodemon": "2.0.6"
   },
