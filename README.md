@@ -1,6 +1,6 @@
 # TEST NODEJS AUDARA
 
-_Prueba básica para desarrollador Backend_
+_Prueba básica para desarrollador Backend._
 
 
 ## Comenzando 🚀
@@ -56,6 +56,10 @@ _Si todo esta bien, ya estarás listo para iniciar la prueba!!. ☕🤓_
 
 __PARA OBTENER LA INFORMACIÓN COMPLETA DE LOS MÉTODOS (PARÁMETROS Y RESPUESTAS) DEBES LEER EL README DENTRO DEL LA CARPETA /controllers/CallRates/__
 
+_La prueba está diseñada para no ser necesario instalar nuevas librerias en lo posible._
+
+_Dentro de la carpeta `` helpers/ `` hay un archivo `` serverTools.js `` donde puedes encontrar múltiples métodos que pueden ayudarte. Si crees necesario para la escalabilidad del proyecto puedes agregar nuevos métodos en este archivo._
+
 _Con base en la estructura de rutas y los ejemplos en `` callQueueController.js ``  y `` callQueueValidations.js `` es necesario generar en los archivos `` callRatesController.js `` y `` callRatesValidations.js `` los siguientes métodos._
 
 *  Show callRate (2500)
@@ -70,9 +74,9 @@ _Con base en la estructura de rutas y los ejemplos en `` callQueueController.js 
 
 ### Una vez realizada la prueba ✅
 
-_Exporta el collection de Postman con la que se realizarán las pruebas._
+_Crea un repositorio publico en [Github](https://github.com/) con tu respuesta y agrega el collection de postman para realizar pruebas._
 
-_Comunicate con la persona encargada la cual te dira por que medio debes enviar o publicar tu respuesta._
+_Envía el link del repositorio antes mencionado al mismo correo electrónico de donde te enviaron la prueba._
 
 
 ### Te deseamos mucha suerte 🍀🍀⭐

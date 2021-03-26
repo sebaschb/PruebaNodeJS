@@ -1,0 +1,43 @@
+# --------------------
+# OSX Files
+# --------------------
+#.env
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# --------------------
+# Node Files
+# --------------------
+.nodemonignore
+npm-debug.log
+node_modules/
+
+# --------------------
+# SASS Files
+# --------------------
+.sass-cache/
+
+# --------------------
+# Bower Files
+# --------------------
+.bower-*/
+bower_components
+vendor
+vendors
+
+# --------------------
+# VisualCode Files
+# --------------------
+.vscode
+
+# --------------------
+# vim Files
+# --------------------
+*.swp
+
+# --------------------
+# Log Files
+# --------------------
+*.log
