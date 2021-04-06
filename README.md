@@ -74,9 +74,9 @@ _Con base en la estructura de rutas y los ejemplos en `` callQueueController.js 
 
 ### Una vez realizada la prueba ✅
 
-_Crea un repositorio publico en [Github](https://github.com/) con tu respuesta y agrega el collection de postman para realizar pruebas._
+_Envíanos tu respuesta en un archivo comprimido .zip y agrega el collection de postman para realizar pruebas._
 
-_Envía el link del repositorio antes mencionado al mismo correo electrónico de donde te enviaron la prueba._
+Envía tu respuesta al mismo correo electrónico de donde te enviaron la prueba._
 
 
 ### Te deseamos mucha suerte 🍀🍀⭐
